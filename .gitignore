@@ -1,0 +1,9 @@
+*/.python-version
+*/.venv
+
+# Betriebssystem-Dateien
+*/.DS_Store
+Thumbs.db
+
+# Umgebungsvariablen (für API Keys deines MCP Servers!)
+*/.env
